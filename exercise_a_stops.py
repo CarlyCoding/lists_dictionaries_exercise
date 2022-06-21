@@ -23,6 +23,12 @@ stops.sort()
 print(stops)
 #9. Reverse the positions of the stops in the list
 stops.reverse()
-#10 Print out all the stops using a for loop
-
 print(stops)
+#10 Print out all the stops using a for loop
+for stop in stops:
+    print(stop)
+
+
+
+
+
