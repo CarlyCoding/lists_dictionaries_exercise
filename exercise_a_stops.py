@@ -1,3 +1,6 @@
+from itertools import count
+
+
 stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Haymarket" ]
 
 #1. Add "Edinburgh Waverley" to the end of the list
@@ -13,8 +16,10 @@ stops.remove("Livingston")
 #6. Delete "Cumbernauld" from the list by index
 del stops[2]
 #7. Print the number of stops there are in the list
-
+num_items = len(stops)
+print(num_items)
 #8. Sort the list alphabetically
+
 #9. Reverse the positions of the stops in the list
 #10 Print out all the stops using a for loop
 
