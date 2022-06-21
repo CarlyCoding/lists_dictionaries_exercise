@@ -19,8 +19,9 @@ del stops[2]
 num_items = len(stops)
 print(num_items)
 #8. Sort the list alphabetically
-
+stops.sort()
 #9. Reverse the positions of the stops in the list
+
 #10 Print out all the stops using a for loop
 
 print(stops)
