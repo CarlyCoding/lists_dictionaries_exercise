@@ -57,6 +57,7 @@ users = {
   }
 }
 
+
 # 1. Get Jonathan's Twitter handle (i.e. the string `"jonnyt"`)
 J_twitter = users["Jonathan"]["twitter"]
 print(J_twitter)
@@ -90,3 +91,4 @@ users["Erik"]["pets"].append({"name": "Fluffy", "species": "dog"})
 print(users["Erik"]["pets"])
 
 # 10. Add another person to the users dictionary
+#Returning to question. 
