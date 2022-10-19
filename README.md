@@ -1,0 +1,1 @@
+This was a homework exercise in week 1 of learning to code Python. This exercise covered working with lists (sort, insert, get the length of the list etc.) and working with dictionaries as well as working with listed dictionaries. This also covered working with loops within said lists and dictionaries. 
